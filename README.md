@@ -9,4 +9,4 @@ information for different demographic factors and to make a probability of devel
 
 Although R script is done and eventual outcome was the table, I hope to translate the code into Python sometime where I can utilize libraries like Numpy, 
 Pandas, and Scikit-Learn to make it autogenerate the table intended.
-Please view the R code in the branch named Reedham-Rcode-1
+Please view the R code in the branch named Reedham-Kalariya-Rcode-1.
