@@ -1,0 +1,426 @@
+﻿Birth date,Ethnicity,Gender,Mortality status,Primary race,Reference Event-Age at event,Reference Event-Condition,Reference Event-Condition documented date-Hours from Reference,Reference Event-Encounter type,Reference Event-Encounter end date-Hours from Reference,Reference Event-Encounter start date-Hours from Reference
+1970,Non-Hispanic,Female,Alive,White,49.6966642602043,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Telemedicine,0,0
+1968,Non-Hispanic,Female,Alive,White,52.5149795487413,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,113.911845286521,10.0099857401349
+1959,Non-Hispanic,Male,Alive,Black or African American,61.2952691896695,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,132.513844041272,-5.38270194492984
+1947,Non-Hispanic,Female,Alive,White,73.5144236833777,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,160.647359688909,12.1846422181289
+1947,Non-Hispanic,Male,Alive,Black or African American,73.7466521177919,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Hospital Encounter,473.277359493429,9.35199434983595
+1955,Non-Hispanic,Male,Alive,White,66.037658588316,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1928,censored,censored,censored,censored,90.8077425740403,Lab test positive for detection of COVID-19 virus,0,censored,0,9.13978595198996
+1945,Non-Hispanic,Male,Alive,White,75.8341577941403,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1974,Non-Hispanic,Female,Alive,White,46.3544054934586,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Telemedicine,0,0
+1937,Non-Hispanic,Male,Alive,White,82.4490028121853,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,16.2994703776074,13.4769932516122
+1961,Non-Hispanic,Female,Alive,White,59.9086271263642,Lab test positive for detection of COVID-19 virus,0,Telemedicine,,10.4344389048091
+1967,Non-Hispanic,Female,Alive,White,54.0620820983106,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1971,Non-Hispanic,Male,Alive,Black or African American,49.6890408736487,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Hospital Encounter,15.0590368921243,15.3531146925355
+1981,Non-Hispanic,Female,Alive,White,39.6047349715881,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1976,Non-Hispanic,Male,Alive,White,44.8159344995975,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,60.9104826641892,14.5751557139004
+1994,Non-Hispanic,Female,Alive,Black or African American,25.5887260250961,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Hospital Encounter,15.9366644797402,12.6792992302701
+1968,Non-Hispanic,Female,Alive,White,52.5368784364073,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1963,Non-Hispanic,Female,Alive,Black or African American,57.4587792291861,Lab test positive for detection of COVID-19 virus,0,censored,13.7056080181,0
+1970,Non-Hispanic,Male,Alive,Black or African American,50.1374186814987,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,,14.4933333333333
+1955,Non-Hispanic,Female,Alive,White,64.5334280123099,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1974,Non-Hispanic,Female,Alive,Black or African American,46.2685423459677,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1963,Non-Hispanic,Female,Alive,White,57.4224863766109,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,,15.8198976744983
+1943,Non-Hispanic,Male,Alive,White,77.6029046670396,Lab test positive for detection of COVID-19 virus,0,Office Visit,1208.57662551192,1447.24985950538
+1987,Non-Hispanic,Male,Alive,Black or African American,33.5060614722753,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,0
+1977,Non-Hispanic,Female,Alive,White,43.177850041891,Lab test positive for detection of COVID-19 virus,0,Abstract,0,0
+1973,Non-Hispanic,Female,Alive,Black or African American,46.3546086880839,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1994,Non-Hispanic,Female,Alive,White,26.5033444378659,Lab test positive for detection of COVID-19 virus,0,Telemedicine,,13.2811192281386
+1937,Non-Hispanic,Female,Alive,White,82.5909944083594,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,231.874669305033,11.6287375746197
+1988,Non-Hispanic,Male,Alive,White,32.6393766956058,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,0
+1948,censored,Male,censored,censored,71.0115166744835,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,279.263774242677,12.174753091759
+1949,Non-Hispanic,Female,Alive,White,70.9898925795153,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1956,Non-Hispanic,Male,Alive,White,64.0853071629962,Lab test positive for detection of COVID-19 virus,0,Office Visit,23.5768523209976,20.7268967036166
+1979,Non-Hispanic,Female,Alive,White,43.3897227120632,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1981,Non-Hispanic,Male,Alive,White,38.8858978148491,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,39.6064389467426,782.449697200248
+1954,Non-Hispanic,Male,Alive,White,68.2063062913759,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,186.888727941806,8.35836449714406
+1941,Non-Hispanic,Female,Alive,Black or African American,78.6896727005235,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,16.903625182023,9.4162195626754
+1962,Non-Hispanic,Male,Alive,White,57.9643961556713,Lab test positive for detection of COVID-19 virus,0,,,
+1994,Non-Hispanic,Male,Alive,Black or African American,26.2857940610333,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,20.7281135795759,17.2165782550841
+1992,Non-Hispanic,Female,Alive,White,28.911613204933,Lab test positive for detection of COVID-19 virus,0,censored,399.924449128923,0
+1976,Non-Hispanic,Male,Alive,White,43.3099209496738,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,1072.72171733466,20.2724274071703
+1980,Hispanic,Female,Alive,White,40.417133375733,Lab test positive for detection of COVID-19 virus,0,censored,15.3454542552892,0
+1952,censored,Female,Alive,censored,66.8624505042522,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,0
+1942,Non-Hispanic,Female,Alive,White,78.1198337299338,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,29.404453382035,15.8446974364486
+1939,Non-Hispanic,Male,Alive,White,81.5086869207623,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,448.275564484392,16.1746697947871
+1961,Non-Hispanic,Male,Alive,White,59.140787650753,Lab test positive for detection of COVID-19 virus,0,Telemedicine,8.70849508640455,8.70102334655775
+2004,Non-Hispanic,Female,Alive,White,15.8977371738573,Lab test positive for detection of COVID-19 virus,0,Office Visit,8.70727161334936,1.40893455716831
+1947,censored,Male,Alive,White,73.7992442926292,Lab test positive for detection of COVID-19 virus,0,censored,,0
+1980,Non-Hispanic,Female,Alive,Black or African American,39.8949629938837,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1999,Non-Hispanic,Female,Alive,Black or African American,22.0135493292813,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,33.8867955872003,22.8459458726068
+1953,Non-Hispanic,Female,Alive,Black or African American,66.9550160338876,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,398.364176680755,-2.19233564283744
+2003,Non-Hispanic,Female,Alive,Black or African American,16.6524775485296,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,11.492018886892,9.46794947506918
+1966,Non-Hispanic,Male,Alive,White,53.7658650371766,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1981,Non-Hispanic,Male,Alive,White,40.3840499326901,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1954,Non-Hispanic,Male,Alive,White,66.3289345578247,Lab test positive for detection of COVID-19 virus,0,Orders Only,0,0
+1959,censored,censored,censored,censored,61.0754285578898,Lab test positive for detection of COVID-19 virus,0,censored,931.242381468544,0
+1958,Non-Hispanic,Male,Alive,White,63.9970826750712,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1985,Non-Hispanic,Female,Alive,Black or African American,36.1545118685957,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,15.8017811227008,20.3834167480724
+1964,Non-Hispanic,Male,Alive,White,57.4526052427055,Lab test positive for detection of COVID-19 virus,0,Orders Only,0,0
+1991,Non-Hispanic,Female,Alive,Black or African American,29.2165190743639,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,21.0166666666667,17.8583334701505
+1972,Non-Hispanic,Female,Alive,Black or African American,48.066383816047,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Telemedicine,,18.7413905389331
+1953,Non-Hispanic,Female,Alive,Black or African American,67.2258222110318,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,87.87699284256,8.73627248524518
+1964,Non-Hispanic,Female,Alive,White,55.9683807738322,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1968,Non-Hispanic,Female,Alive,White,52.8671233177066,Lab test positive for detection of COVID-19 virus,0,Office Visit,15.347200859381,14.5633152032168
+1979,Non-Hispanic,Male,Alive,White,41.5248710661835,Lab test positive for detection of COVID-19 virus,0,Telemedicine,0,0
+1952,Non-Hispanic,Female,Alive,White,68.5692813557854,Lab test positive for detection of COVID-19 virus,0,Telemedicine,12.8069177945217,0
+1967,Non-Hispanic,Male,Alive,Black or African American,52.7068522568817,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,0
+1945,Non-Hispanic,Female,Alive,White,75.6389603040983,Lab test positive for detection of COVID-19 virus,0,Office Visit,14.3060866614264,12.4711942473498
+1952,Non-Hispanic,Female,Alive,White,68.5895488459003,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,0
+1977,Non-Hispanic,Male,Alive,White,42.3699835802645,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,10.4602588598772
+1964,Non-Hispanic,Female,Alive,White,56.2692801010347,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Telemedicine,0,0
+1973,Non-Hispanic,Male,Alive,White,46.8141368691912,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1938,Non-Hispanic,Female,Alive,White,81.3037304624972,Lab test positive for detection of COVID-19 virus,0,Office Visit,11.4416582598846,9.59200484410791
+1953,Non-Hispanic,Female,Alive,White,66.8766718940983,Lab test positive for detection of COVID-19 virus,0,censored,,10.6291348370873
+1968,Non-Hispanic,Female,Alive,White,52.4935998928447,Lab test positive for detection of COVID-19 virus,0,Office Visit,,11.9222722434211
+1968,Non-Hispanic,Female,Alive,White,52.45805050015,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1956,Non-Hispanic,Female,Alive,White,64.2069374271926,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1955,Non-Hispanic,Female,Alive,White,65.1892691478259,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1968,Non-Hispanic,Female,Alive,White,51.7418073942124,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,59.7018614415397,8.12883080963226
+1926,censored,censored,censored,censored,92.9236664263966,Lab test positive for detection of COVID-19 virus,0,censored,336.136588179751,17.1817064338065
+1990,censored,Female,Alive,censored,30.5215643708759,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1992,Non-Hispanic,Female,Alive,White,28.275880720714,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,64.330903479208,-27.6605859072293
+1954,Non-Hispanic,Female,Alive,White,65.8183811828748,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,217.469795151235,-51.1070539380796
+1992,Non-Hispanic,Female,Alive,White,28.4115261456724,Lab test positive for detection of COVID-19 virus,0,censored,0,9.96054015438122
+1971,Non-Hispanic,Female,Alive,White,48.9102405790461,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1966,censored,Male,censored,censored,53.8244903164552,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,,10.9898646134564
+1928,Non-Hispanic,Female,Alive,Black or African American,92.1863063550569,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,85.7142900331221,1.00580347813576
+1965,Non-Hispanic,Male,Alive,White,55.1975497670591,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,11.6229886322154
+1978,Non-Hispanic,Male,Alive,White,41.5388148238003,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,11.2210261809298,0
+1945,censored,Female,Alive,censored,75.6523542982578,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1973,Non-Hispanic,Female,Alive,White,46.4235468381393,Lab test positive for detection of COVID-19 virus,0,Telemedicine,0,0
+1973,Non-Hispanic,Female,Alive,White,47.0179376258043,Lab test positive for detection of COVID-19 virus,0,Telemedicine,9.83996674405925,0
+1983,censored,Female,Alive,censored,36.9145078687474,Lab test positive for detection of COVID-19 virus,0,censored,13.5150896971198,-0.87939794528285
+1968,Non-Hispanic,Female,Alive,White,52.4463013262961,Lab test positive for detection of COVID-19 virus,0,Telemedicine,,10.4001962256228
+1941,Non-Hispanic,Female,Alive,Black or African American,79.7870314579577,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,13.4386698194569,10.9503804407156
+1942,Non-Hispanic,Female,Alive,Black or African American,78.1273586149498,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Hospital Encounter,124.608420627508,15.1665927075574
+1939,Non-Hispanic,Male,Alive,White,80.5175083680007,Lab test positive for detection of COVID-19 virus,0,Office Visit,278.202337093666,99.4328902196638
+2018,Non-Hispanic,Female,Alive,Black or African American,1.86562472062481,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,16.7352996336965,14.6224791565833
+1945,Non-Hispanic,Male,Alive,Black or African American,75.7788065369063,Lab test positive for detection of COVID-19 virus,0,censored,,168.525511236653
+1971,censored,Male,Alive,White,48.7907418675711,Lab test positive for detection of COVID-19 virus,0,censored,0,15.0423529418035
+1968,Non-Hispanic,Female,Alive,White,52.6591945288428,Lab test positive for detection of COVID-19 virus,0,Office Visit,14.3234333005359,13.2367825383657
+2018,Non-Hispanic,Female,Alive,Black or African American,1.86562472062481,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Office Visit,352.177289704978,20.9709497227822
+1948,Non-Hispanic,Male,Alive,White,71.5533454741359,Lab test positive for detection of COVID-19 virus,0,Telemedicine,,15.0342656512718
+1971,Non-Hispanic,Female,Alive,White,49.8618907720839,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,11.5206097977901,7.11108739056053
+1973,Non-Hispanic,Male,Alive,Black or African American,47.1703018798668,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,62.6083486166368,-2.11245845874991
+1982,Non-Hispanic,Male,Alive,White,37.0744935668072,Lab test positive for detection of COVID-19 virus,0,,,
+1969,Non-Hispanic,Male,Alive,Black or African American,51.2087573084895,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,160.312556683089,9.95985164589839
+1980,Non-Hispanic,Male,Alive,White,39.9452804377568,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,993.529224924823,15.0443223994872
+1955,Non-Hispanic,Female,Alive,White,65.1913319614229,Lab test positive for detection of COVID-19 virus,0,Telemedicine,0,0
+1964,Non-Hispanic,Male,Alive,Black or African American,55.846443923042,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,58.8958693337113,13.0523500832304
+1943,Non-Hispanic,Male,Alive,White,77.6222557150699,Lab test positive for detection of COVID-19 virus,0,Telemedicine,11.4665192757594,9.12875729101764
+1972,Non-Hispanic,Female,Alive,White,48.3572892498431,Lab test positive for detection of COVID-19 virus,0,,,
+1993,Non-Hispanic,Male,Alive,Black or African American,27.29364127583,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,21.0166666666667,18.0490297162475
+1938,Non-Hispanic,Female,Alive,Black or African American,82.4352162442341,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,0
+1937,Non-Hispanic,Female,Alive,White,82.8843192654326,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,21.6145060204224,-36.04097020756
+1940,Non-Hispanic,Female,Alive,White,79.6965570401068,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,474.03100383925,-4.41693258307355
+1954,Non-Hispanic,Female,Alive,White,65.3657880293311,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,0
+1966,Non-Hispanic,Male,Alive,Black or African American,53.9146923268279,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,22.8435102760539,10.33243704416
+1995,Non-Hispanic,Female,Alive,White,24.883831098171,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Telemedicine,,17.1843706067977
+1926,Non-Hispanic,Female,Alive,White,94.8411314217908,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,65.7502265854495,11.6023017136013
+1943,Non-Hispanic,Male,Alive,White,77.4963635569494,Lab test positive for detection of COVID-19 virus,0,Telemedicine,0,0
+1954,censored,Female,Alive,censored,65.561084457342,Lab test positive for detection of COVID-19 virus,0,censored,423.964373404968,650.960837675178
+1981,Non-Hispanic,Female,Alive,Black or African American,38.9849521203832,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Telemedicine,0,11.9755051602758
+1994,Non-Hispanic,Male,Alive,Black or African American,25.984400645235,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,85.2508772410628,303.993451855331
+1956,Non-Hispanic,Female,Alive,White,62.2679548187163,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,,0
+1950,Non-Hispanic,Male,Alive,White,70.9886023584042,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,23.7111100829979,9.78897063881085
+1985,Non-Hispanic,Male,Alive,White,35.2478851915165,Lab test positive for detection of COVID-19 virus,0,Office Visit,16.0142437909627,12.8494602643853
+1950,Non-Hispanic,Male,Alive,White,70.285268306457,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,63.5923011607059,9.53940786916015
+1932,Non-Hispanic,Male,Alive,White,86.9986815580736,Lab test positive for detection of COVID-19 virus,0,Office Visit,,5.36682849073609
+1980,Non-Hispanic,Female,Alive,White,39.6308579857141,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1941,Non-Hispanic,Male,Alive,White,79.4960961300173,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,472.91259054332,17.2757211582766
+1961,Non-Hispanic,Female,Alive,Black or African American,59.7955390094577,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,16.928706246779,13.7630489142367
+1951,Non-Hispanic,Male,Alive,White,70.1438950658551,Lab test positive for detection of COVID-19 virus,0,Office Visit,10.4611436167014,10.3425947239508
+1950,Non-Hispanic,Male,Alive,Black or African American,70.8725210075045,Lab test positive for detection of COVID-19 virus,0,censored,,
+1981,Non-Hispanic,Female,Alive,White,38.4821533190691,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,22.8738555536924,233.797544622715
+1965,Non-Hispanic,Male,Alive,White,54.8211112114351,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,19.394304543214,15.130341898181
+1937,censored,censored,censored,censored,82.825654011998,Lab test positive for detection of COVID-19 virus,0,censored,834.020016424732,3.02352815503905
+1932,Non-Hispanic,Female,Alive,White,88.1211821934948,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,63.4665493944532,-38.5697845350209
+1970,Non-Hispanic,Male,Alive,White,49.7053315159795,Lab test positive for detection of COVID-19 virus,0,Telemedicine,,15.0383548209878
+1978,Non-Hispanic,Female,Alive,White,42.8474841501575,Lab test positive for detection of COVID-19 virus,0,Telemedicine,11.6952120371029,0
+1962,Non-Hispanic,Female,Alive,White,57.9626872750494,Lab test positive for detection of COVID-19 virus,0,Telemedicine,15.591104346263,13.0304189584222
+1969,Non-Hispanic,Female,Alive,White,53.7440838361308,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,279.130490293424,17.5748743272496
+1966,Non-Hispanic,Female,Alive,Black or African American,54.1398018857612,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,8.8388107128786,5.23076584180952
+1942,Non-Hispanic,Male,Alive,White,78.8258227211253,Lab test positive for detection of COVID-19 virus,0,,,
+1996,Non-Hispanic,Male,Alive,Black or African American,25.1885812072674,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,58.8188757101003,20.9139167933965
+1990,Non-Hispanic,Female,Alive,White,29.8291250689483,Lab test positive for detection of COVID-19 virus,0,Telemedicine,0,0
+1964,Non-Hispanic,Female,Alive,Black or African American,55.8238475285772,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1951,Non-Hispanic,Male,Alive,White,69.3061766204041,Lab test positive for detection of COVID-19 virus,0,Telemedicine,0,0
+1956,Non-Hispanic,Male,Alive,White,63.4479247384824,Lab test positive for detection of COVID-19 virus,0,Office Visit,15.5280043932121,14.797669664907
+1948,Non-Hispanic,Female,Alive,White,72.6320835640023,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1951,Non-Hispanic,Male,Alive,White,68.1889759024898,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,0
+1962,Non-Hispanic,Male,Alive,Black or African American,58.1258370410661,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,816.713333235724,10.3957236606877
+1976,Non-Hispanic,Male,Alive,White,42.3097462086507,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1973,Hispanic,Female,Alive,White,46.9109730670452,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1980,Non-Hispanic,Female,Alive,White,40.7318688491963,Lab test positive for detection of COVID-19 virus,0,Telemedicine,10.1107401657742,9.87775826707214
+1966,Non-Hispanic,Female,Alive,White,54.2218157602384,Lab test positive for detection of COVID-19 virus,0,Telemedicine,0,0
+1949,Non-Hispanic,Female,Alive,White,71.4430401940719,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1968,Non-Hispanic,Male,Alive,White,52.6426332489839,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1943,Non-Hispanic,Male,Alive,White,78.2348587303721,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1971,Non-Hispanic,Female,Alive,White,49.4662656083721,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,22.7530774120273,17.5933684896354
+1958,Non-Hispanic,Male,Alive,White,62.1816045481969,Lab test positive for detection of COVID-19 virus,0,Telemedicine,10.7850773094716,11.1666849344621
+1969,Non-Hispanic,Female,Alive,Black or African American,51.4425782579562,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,12.1840609325404,10.6869444444444
+1968,Non-Hispanic,Female,Alive,Black or African American,51.7568301068365,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1929,Non-Hispanic,Female,Alive,White,89.3524557472045,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1947,Non-Hispanic,Male,Alive,White,73.4781417852385,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1973,Non-Hispanic,Female,Alive,White,47.5651898557874,Lab test positive for detection of COVID-19 virus,0,Orders Only,0,0
+1982,censored,Male,Alive,White,37.8326633950677,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1987,Non-Hispanic,Female,Alive,Black or African American,32.1766832692701,Lab test positive for detection of COVID-19 virus,0,censored,9.21486498376272,7.76548377927259
+1967,Non-Hispanic,Male,Alive,Black or African American,53.6216607558616,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1968,Non-Hispanic,Female,Alive,White,52.6963705015383,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,115.178055250319,21.755813764989
+1941,Non-Hispanic,Female,Alive,White,81.2584454723463,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1947,Non-Hispanic,Female,Alive,White,73.2068251718131,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,40.6349464507972,13.4667156797228
+1947,Non-Hispanic,Female,Alive,White,73.5357654813084,Lab test positive for detection of COVID-19 virus,0,Orders Only,0,0
+1965,Non-Hispanic,Male,Alive,White,55.6298800542432,Lab test positive for detection of COVID-19 virus,0,Orders Only,0,0
+1997,Non-Hispanic,Male,Alive,Black or African American,24.4364991975742,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,18.6117713989987,15.4546725640561
+1960,censored,Female,Alive,censored,61.0169653110651,Lab test positive for detection of COVID-19 virus,0,censored,,22.3946602705385
+1986,Non-Hispanic,Male,Alive,White,33.6129944358905,Lab test positive for detection of COVID-19 virus,0,Telemedicine,0,0
+1995,Non-Hispanic,Female,Alive,Black or African American,24.849799365577,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,11.5487996957877,9.50626459607485
+1930,Non-Hispanic,Female,Alive,White,89.1678140034079,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1975,Non-Hispanic,Female,Alive,White,45.4060881276383,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,0
+2003,Non-Hispanic,Female,Alive,Black or African American,17.0256126605129,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,14.4153759816846,11.6134301035117
+1947,Non-Hispanic,Female,Alive,Black or African American,73.5569368214023,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1972,Non-Hispanic,Male,Alive,White,48.2420416753675,Lab test positive for detection of COVID-19 virus,0,Telemedicine,9.20244510944343,9.27630525675161
+1942,Non-Hispanic,Male,Alive,White,78.1450454327825,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1987,Non-Hispanic,Female,Alive,White,31.8368183173968,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,423.867373399383,20.7232201314484
+1969,Non-Hispanic,Female,Alive,Black or African American,51.831570259312,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,445.10856797607,11.9143675046715
+1947,Non-Hispanic,Male,Alive,White,73.2023025776201,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,186.038280116048,0
+1958,Non-Hispanic,Male,Alive,Black or African American,61.6134199500184,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,113.386809449084,15.5753766800196
+1979,Non-Hispanic,Female,Alive,Black or African American,42.178616039105,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1967,Non-Hispanic,Female,Alive,Black or African American,52.631381418698,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,251.063908934181,-6.12315516186944
+1999,Non-Hispanic,Female,Alive,White,21.5390057687076,Lab test positive for detection of COVID-19 virus,0,,,
+1941,Non-Hispanic,Female,Alive,White,80.4307341806261,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,186.137180530545,17.2451671871829
+1959,Non-Hispanic,Female,Alive,Black or African American,61.0448018761086,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,0
+1968,Non-Hispanic,Female,Alive,White,52.84597270192,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1948,Non-Hispanic,Male,Alive,White,72.6424248176815,Lab test positive for detection of COVID-19 virus,0,Telemedicine,0,0
+1962,Non-Hispanic,Female,Alive,White,57.9612466424958,Lab test positive for detection of COVID-19 virus,0,Orders Only,0,0
+1982,Non-Hispanic,Male,Alive,White,38.4397677098656,Lab test positive for detection of COVID-19 virus,0,Office Visit,9.20564169774438,10.1048620472372
+1968,Non-Hispanic,Female,Alive,White,52.4070708221718,Lab test positive for detection of COVID-19 virus,0,Office Visit,16.0389233902022,15.0152752372762
+1968,Non-Hispanic,Female,Alive,White,52.4998090241509,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1980,censored,Female,Alive,censored,40.4392670039525,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,,11.4606213860455
+1964,Non-Hispanic,Male,Alive,White,56.1293035684444,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1968,Non-Hispanic,Male,Alive,Black or African American,52.9497206157029,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,0
+1937,Non-Hispanic,Male,Alive,White,82.8622699992677,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,204.68338996109,9.63483789351688
+1945,censored,Male,censored,censored,75.1913734732747,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,0
+1954,Non-Hispanic,Male,Alive,White,66.3993947154322,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,66.01266617729,0
+1965,Non-Hispanic,Female,Alive,White,55.8174778915415,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,52.9250436440625,10.2931423956598
+1968,Non-Hispanic,Female,Alive,Black or African American,53.2672594411003,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,0
+1990,Non-Hispanic,Male,Alive,Black or African American,30.5570512734607,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1956,Non-Hispanic,Female,Alive,White,62.9428711198869,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,0
+1958,Non-Hispanic,Male,Alive,White,61.5252855919211,Lab test positive for detection of COVID-19 virus,0,Telemedicine,,11.6278350791529
+2018,Non-Hispanic,Female,Alive,Black or African American,1.87484451282054,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,39.1098095130771,21.8606147502424
+1945,Non-Hispanic,Male,Alive,White,74.0535138076252,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1981,Non-Hispanic,Male,Alive,White,39.627681027558,Lab test positive for detection of COVID-19 virus,0,Telemedicine,11.5097686174467,11.1743413256146
+1993,Non-Hispanic,Female,Alive,Black or African American,27.0941817665476,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Office Visit,11.2678199073991,11.4166666666667
+1949,Non-Hispanic,Male,Alive,White,70.8732819809809,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,16.2246136195917,-51.1070539380796
+2005,Non-Hispanic,Female,Alive,White,6.95639934403086,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,86.3500676891864,48.0000739060147
+1990,Non-Hispanic,Female,Alive,Black or African American,30.4657844786281,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Office Visit,,333.203899485161
+1994,Non-Hispanic,Female,Alive,White,26.1990572748068,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,0
+1938,Non-Hispanic,Female,Alive,Black or African American,82.0276666498091,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,,10.6869444444444
+1969,Non-Hispanic,Male,Alive,White,50.1611459144986,Lab test positive for detection of COVID-19 virus,0,,,
+1997,censored,Female,Alive,censored,22.9958705537461,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,,10.7633665633056
+2004,Non-Hispanic,Female,Alive,Black or African American,15.789962706654,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1963,Non-Hispanic,Male,Alive,White,57.4214890604452,Lab test positive for detection of COVID-19 virus,0,Orders Only,0,0
+1973,censored,censored,censored,censored,47.4793090563841,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1990,Non-Hispanic,Male,Alive,White,29.8621965701355,Lab test positive for detection of COVID-19 virus,0,Office Visit,11.9480450330669,13.6365683177074
+1985,Non-Hispanic,Female,Alive,White,33.9432058965816,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Telemedicine,0,0
+1992,Non-Hispanic,Female,Alive,Black or African American,27.4775008256394,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1956,Non-Hispanic,Female,Alive,White,64.2095759051403,Lab test positive for detection of COVID-19 virus,0,censored,0,13.4970600496011
+1966,Non-Hispanic,Female,Alive,White,54.7758683533204,Lab test positive for detection of COVID-19 virus,0,Telemedicine,0,0
+1966,Non-Hispanic,Male,Alive,Black or African American,54.0648977723336,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1959,Non-Hispanic,Male,Alive,White,61.51151244412,Lab test positive for detection of COVID-19 virus,0,Office Visit,919.195244519705,920.408341537846
+1997,censored,Female,Alive,censored,23.7832838716034,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,7.46377774641074
+1957,Non-Hispanic,Male,Alive,White,64.1485791125203,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,132.08350931816,13.15
+1987,Non-Hispanic,Female,Alive,White,33.6868755162254,Lab test positive for detection of COVID-19 virus,0,Office Visit,11.8058412075695,10.2161884817414
+1947,Non-Hispanic,Female,Alive,White,73.2964464702045,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1980,Non-Hispanic,Male,Alive,Black or African American,40.4309235192427,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Hospital Encounter,201.238368636664,16.1913354519619
+1998,Non-Hispanic,Male,Alive,White,22.8497894037331,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1967,Non-Hispanic,Female,Alive,Black or African American,53.0785579880121,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,78.0558783879531,11.7413646118971
+1965,Non-Hispanic,Female,Alive,White,55.599743942081,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1959,Non-Hispanic,Female,Alive,Black or African American,60.7389687930561,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1974,Non-Hispanic,Female,Alive,Black or African American,46.4177667545594,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Office Visit,,10.8449939690686
+1961,Non-Hispanic,Female,Alive,White,59.3997146200531,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,15.346221450168,13.1293562789901
+1999,Non-Hispanic,Male,Alive,Black or African American,20.5810151825267,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,15.3418156354685,13.0586589174397
+1993,Non-Hispanic,Female,Alive,Black or African American,26.88526411334,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Telemedicine,,0
+1973,Non-Hispanic,Female,Alive,White,47.5753542953174,Lab test positive for detection of COVID-19 virus,0,Orders Only,0,0
+1970,Non-Hispanic,Female,Alive,White,50.2314020114393,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1947,Non-Hispanic,Male,Alive,White,73.0123831343001,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,0
+1964,censored,Female,Alive,censored,56.1052665697135,Lab test positive for detection of COVID-19 virus,0,censored,112.993254938351,16.3450184357186
+1947,Non-Hispanic,Female,Alive,White,73.4946722227474,Lab test positive for detection of COVID-19 virus,0,Office Visit,13.3800320991001,11.9643958328581
+1947,Non-Hispanic,Female,Alive,Black or African American,72.3379590289596,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1955,Non-Hispanic,Male,Alive,White,65.4721350222666,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,353.975566407944,1.09088795928158
+1945,Non-Hispanic,Female,Alive,White,75.9584520172251,Lab test positive for detection of COVID-19 virus,0,Orders Only,0,0
+1945,Non-Hispanic,Male,Alive,White,75.7440366410677,Lab test positive for detection of COVID-19 virus,0,Orders Only,0,0
+1947,Non-Hispanic,Female,Alive,White,73.4691923119504,Lab test positive for detection of COVID-19 virus,0,Office Visit,15.0576137391647,14.2762686434522
+1966,Non-Hispanic,Female,Alive,White,53.7551022177424,Lab test positive for detection of COVID-19 virus,0,,,
+1942,Non-Hispanic,Male,Alive,White,77.5559588543702,Lab test positive for detection of COVID-19 virus,0,Telemedicine,14.1347946790201,0
+1973,Non-Hispanic,Male,Alive,White,47.1506214263757,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,278.892133019527,16.4917248407632
+1983,censored,Male,Alive,White,37.6453784608034,Lab test positive for detection of COVID-19 virus,0,censored,188.200099532644,15.15741743193
+1951,Non-Hispanic,Male,Alive,White,70.0401405661039,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1990,Non-Hispanic,Female,Alive,Black or African American,30.3319504257674,Lab test positive for detection of COVID-19 virus,0,censored,379.59212951931,24.9960062134293
+1961,Non-Hispanic,Female,Alive,White,59.3521286015902,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,
+1955,Non-Hispanic,Male,Alive,Black or African American,66.0034218281985,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,184.519963007837,0.50246699642128
+1976,Non-Hispanic,Male,Alive,White,44.6296598173382,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1966,Non-Hispanic,Female,Alive,White,55.0857814999708,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1975,Non-Hispanic,Female,Alive,White,44.5692023731355,Lab test positive for detection of COVID-19 virus,0,Telemedicine,,17.5666666666667
+1955,censored,Male,Alive,White,64.5655974622609,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1998,Non-Hispanic,Female,Alive,Black or African American,21.5871557537205,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,,0
+2004,Non-Hispanic,Male,Alive,Black or African American,15.4579846257686,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,22.3117380556519,17.0596466123404
+1969,Non-Hispanic,Female,Alive,White,51.2490066559521,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1960,Non-Hispanic,Male,Alive,White,59.4760438015303,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,399.893443228748,-0.70266702295535
+1960,Non-Hispanic,Female,Alive,White,60.3186424638357,Lab test positive for detection of COVID-19 virus,0,History,0,0
+2004,Non-Hispanic,Female,Alive,Black or African American,16.7144048885616,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,14.4416664659469,11.6003858732706
+2018,Non-Hispanic,Female,Alive,White,1.86562472062481,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,350.355024433424,715.904943799826
+1951,Non-Hispanic,Female,Alive,Black or African American,69.8064956706116,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,447.429291981316,9.3300850259145
+1951,Non-Hispanic,Female,Alive,White,68.3793304823003,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Telemedicine,,22.6925461463173
+1973,Non-Hispanic,Female,Alive,Black or African American,47.1477414596297,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,27.7781724920583,14.9072863715802
+1950,Non-Hispanic,Female,Alive,White,70.5210711859721,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1960,Non-Hispanic,Male,Alive,Black or African American,60.2764907707494,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Hospital Encounter,34.4213072808782,8.54960612292826
+1978,Non-Hispanic,Female,Alive,White,41.5622168589361,Lab test positive for detection of COVID-19 virus,0,Office Visit,,617.32613737989
+1974,censored,Female,Alive,censored,45.2044573462869,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,,15.1426779743122
+1986,Hispanic,Female,Alive,White,33.588794352292,Lab test positive for detection of COVID-19 virus,0,censored,87.9187660656054,11.4166666500745
+1958,Non-Hispanic,Female,Alive,White,61.8179479241191,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Telemedicine,0,0
+1980,Non-Hispanic,Female,Alive,White,41.1300683408708,Lab test positive for detection of COVID-19 virus,0,Office Visit,10.0807624214291,10.2087151830415
+1964,Non-Hispanic,Male,Alive,White,56.1342406219199,Lab test positive for detection of COVID-19 virus,0,Telemedicine,14.3030536610693,11.4794089269666
+1988,Non-Hispanic,Male,Alive,Black or African American,32.2541757928753,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,711.349068128146,15.9712448941478
+1966,Non-Hispanic,Female,Alive,Black or African American,53.919576353112,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Hospital Encounter,286.248486760295,3.11313703294064
+1988,Non-Hispanic,Male,Alive,White,29.4373457105763,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1975,Non-Hispanic,Female,Alive,Black or African American,45.2427677902402,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1960,Non-Hispanic,Male,Alive,Black or African American,59.3875237090422,Lab test positive for detection of COVID-19 virus,0,censored,,17.2184441451574
+1966,Non-Hispanic,Female,Alive,White,54.0044542611486,Lab test positive for detection of COVID-19 virus,0,Orders Only,0,0
+1986,Non-Hispanic,Female,Alive,White,33.4696200870813,Lab test positive for detection of COVID-19 virus,0,Telemedicine,0,17.5666666666667
+1980,Non-Hispanic,Female,Alive,White,40.5320613304262,Lab test positive for detection of COVID-19 virus,0,Orders Only,0,0
+1943,Non-Hispanic,Female,Alive,Black or African American,76.7410132558455,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,160.577989637301,10.2067381670809
+1990,Non-Hispanic,Female,Alive,Black or African American,29.4608004095788,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,0
+1983,Non-Hispanic,Female,Alive,White,37.9514782863933,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1996,Non-Hispanic,Male,Alive,Black or African American,24.5778581007774,Lab test positive for detection of COVID-19 virus,0,censored,15.9588888888889,10.1344680486078
+1945,Non-Hispanic,Female,Alive,White,75.7744252558629,Lab test positive for detection of COVID-19 virus,0,Orders Only,0,0
+1926,censored,Male,censored,censored,93.7067132694664,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,0
+1931,Non-Hispanic,Male,Alive,White,88.1598601259573,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,14.9261067406348
+1959,Non-Hispanic,Female,Alive,White,61.3125475790325,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,21.3804296099754,20.5025644567667
+1980,Non-Hispanic,Male,Alive,White,40.4426159574488,Lab test positive for detection of COVID-19 virus,0,Office Visit,11.3692078232279,10.5228789268392
+1998,Non-Hispanic,Female,Alive,White,22.8582279594573,Lab test positive for detection of COVID-19 virus,0,Telemedicine,10.1199185672859,9.56323802986489
+1958,Non-Hispanic,Male,Alive,White,62.8943728131573,Lab test positive for detection of COVID-19 virus,0,Telemedicine,9.20778992941901,8.8066078339085
+1941,Non-Hispanic,Female,Alive,White,79.9769715234306,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1973,Non-Hispanic,Male,Alive,White,47.1458780728898,Lab test positive for detection of COVID-19 virus,0,Office Visit,10.5715827732342,10.4697108466594
+1950,Non-Hispanic,Female,Alive,White,69.60979649633,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,20.8420880174537,15.166092532501
+2018,Non-Hispanic,Male,Alive,White,1.86562472062481,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1955,Non-Hispanic,Male,Alive,Black or African American,64.537792633186,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1936,Non-Hispanic,Male,Alive,White,84.4557878031945,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,85.6543062980563,16.4635990933632
+1974,Non-Hispanic,Male,Alive,White,46.3800665292352,Lab test positive for detection of COVID-19 virus,0,Office Visit,10.4239611577672,8.96649146914412
+1982,censored,Male,censored,censored,37.9514253568508,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,10.3744933380887
+1941,Non-Hispanic,Male,Alive,White,79.5995485000793,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,13.159469854111
+1936,Non-Hispanic,Female,Alive,White,82.8823448941607,Lab test positive for detection of COVID-19 virus,0,,,
+1979,censored,Male,Alive,White,41.1679070147301,Lab test positive for detection of COVID-19 virus,0,censored,162.83875067839,14.3986667663197
+1981,Non-Hispanic,Male,Alive,White,39.5641486045426,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,32.6855303093461,16.4081712838555
+1970,Non-Hispanic,Female,Alive,Black or African American,47.1447065362101,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Office Visit,10.470292197728,9.14570815764577
+1982,Non-Hispanic,Male,Alive,White,38.2068041674642,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1995,Non-Hispanic,Female,Alive,Black or African American,24.8810742725972,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,20.1535475226779,17.56382555616
+1983,Non-Hispanic,Male,Alive,Black or African American,36.8324767958337,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1980,Non-Hispanic,Female,Alive,White,41.0719062136962,Lab test positive for detection of COVID-19 virus,0,censored,,0
+1958,Non-Hispanic,Male,Alive,White,62.1796697566265,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,437.928675744977,-4.41204781935953
+1981,Non-Hispanic,Male,Alive,White,39.1520080789459,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,1182.23964557966,176.454954740997
+1973,Non-Hispanic,Male,Alive,White,47.3314807371618,Lab test positive for detection of COVID-19 virus,0,,,
+1954,Non-Hispanic,Female,Alive,White,66.4003932139029,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1996,Non-Hispanic,Female,Alive,White,23.8323881979878,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1947,Non-Hispanic,Female,Alive,White,73.3520364773476,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1986,Non-Hispanic,Female,Alive,White,35.2943191304827,Lab test positive for detection of COVID-19 virus,0,Telemedicine,9.2037047850566,8.73150898722361
+1990,Non-Hispanic,Male,Alive,Black or African American,29.5584000575518,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,284.354261094763,9.46756687734638
+1996,Non-Hispanic,Male,Alive,White,23.4961365917005,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1993,Non-Hispanic,Male,Alive,Black or African American,27.0785393948509,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1972,Non-Hispanic,Female,Alive,White,48.8873046618851,Lab test positive for detection of COVID-19 virus,0,,,
+1988,Non-Hispanic,Female,Alive,Black or African American,31.9040334309463,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Telemedicine,0,0
+1963,Non-Hispanic,Male,Alive,White,56.239046925459,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,0
+1963,Non-Hispanic,Male,Alive,White,57.5090066255831,Lab test positive for detection of COVID-19 virus,0,Office Visit,13.803525942593,11.4538059680789
+1992,censored,Male,Alive,White,28.5919278673494,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1942,Non-Hispanic,Male,Alive,Black or African American,78.311227593331,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1979,Non-Hispanic,Male,Alive,White,41.0999808485554,Lab test positive for detection of COVID-19 virus,0,Office Visit,109.67893402168,23.3213325650801
+1969,Non-Hispanic,Female,Alive,White,51.3318990653011,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1991,Non-Hispanic,Male,Alive,Black or African American,29.2773374803473,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,47.8325956759565,-15.7192352938415
+1993,Non-Hispanic,Female,Alive,White,26.9827050572821,Lab test positive for detection of COVID-19 virus,0,Office Visit,11.1137173348395,9.98563677689936
+1936,Non-Hispanic,Female,Alive,White,84.8046850399507,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,477.961881332051,-4.75932977601669
+1980,Non-Hispanic,Female,Alive,White,39.6101294765241,Lab test positive for detection of COVID-19 virus,0,Office Visit,,171.000767364589
+1955,Non-Hispanic,Male,Alive,White,65.5458663399537,Lab test positive for detection of COVID-19 virus,0,Telemedicine,,13.0737162871291
+2004,Non-Hispanic,Female,Alive,White,14.0704276749775,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,10.4846531425771,13.0171276149333
+1975,Non-Hispanic,Male,Alive,Black or African American,43.2442649650346,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,535.94703087433,15.3420636493021
+1950,Non-Hispanic,Female,Alive,Black or African American,69.8617683612923,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,0
+1954,Non-Hispanic,Female,Alive,Black or African American,66.222237254793,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1968,Non-Hispanic,Female,Alive,White,52.6135063585305,Lab test positive for detection of COVID-19 virus,0,Office Visit,16.0368463247734,15.238394427724
+1981,Non-Hispanic,Female,Alive,Black or African American,38.9914561218114,Lab test positive for detection of COVID-19 virus,0,censored,46.8868239235779,15.8642124803928
+1993,Non-Hispanic,Male,Alive,Black or African American,26.4881732283454,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,32.7164980904044,8.72767027733411
+1973,Non-Hispanic,Male,Alive,Black or African American,48.3754565868864,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,25.4231948551326,17.5666666666667
+1963,Non-Hispanic,Female,Alive,White,57.927195816593,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,160.35037965166,15.1152187307147
+1948,Non-Hispanic,Female,Alive,White,71.9872150908603,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,11.6111815157569,13.4019739752628
+1950,Non-Hispanic,Male,Alive,White,70.6764216555117,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1989,Non-Hispanic,Female,Alive,Black or African American,32.3756636537064,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,24.0623663687784,23.4738472058565
+1943,Non-Hispanic,Female,Alive,White,77.5869373858317,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1980,Non-Hispanic,Female,Alive,White,40.469264778345,Lab test positive for detection of COVID-19 virus,0,Office Visit,14.3893400177857,14.5222660391152
+1940,Non-Hispanic,Male,Alive,White,80.0690741579693,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1974,Non-Hispanic,Male,Alive,White,45.7146287749227,Lab test positive for detection of COVID-19 virus,0,Orders Only,0,0
+1968,Non-Hispanic,Female,Alive,White,52.6525637912917,Lab test positive for detection of COVID-19 virus,0,Office Visit,15.516612912855,14.3077059404825
+1993,Non-Hispanic,Male,Alive,White,28.1836912146863,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,40.3403169112853,15.3018612656969
+1964,Non-Hispanic,Female,Alive,Black or African American,55.8826212949423,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,254.011960277608,15.1659661023727
+1991,Non-Hispanic,Female,Alive,White,29.3414753168672,Lab test positive for detection of COVID-19 virus,0,Office Visit,13.9096413571422,14.0166666666667
+1953,Non-Hispanic,Female,Alive,White,68.4664625246244,Lab test positive for detection of COVID-19 virus,0,Office Visit,,11.1354634857162
+1971,Non-Hispanic,Male,Alive,White,49.3276232770364,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,20.1419867095667,13.3606452187773
+1965,Non-Hispanic,Male,Alive,White,55.4767366726372,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,41.3565787634509,5.9103568405226
+1948,Non-Hispanic,Female,Alive,White,71.7926996253826,Lab test positive for detection of COVID-19 virus,0,Telemedicine,15.2317971081864,0
+1973,Non-Hispanic,Female,Alive,White,47.8122413941965,Lab test positive for detection of COVID-19 virus,0,Abstract,0,0
+1960,Non-Hispanic,Female,Alive,White,60.6306205371193,Lab test positive for detection of COVID-19 virus,0,Telemedicine,0,12.5703625582667
+1991,Non-Hispanic,Female,Alive,White,30.5569627585314,Lab test positive for detection of COVID-19 virus,0,censored,108.239738146313,16.8105543589674
+1983,Non-Hispanic,Female,Alive,White,36.1521761194914,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1941,Non-Hispanic,Female,Alive,White,79.5761797197239,Lab test positive for detection of COVID-19 virus,0,Telemedicine,17.6882715750526,13.4667925212608
+1974,Non-Hispanic,Male,Alive,Black or African American,45.9477260873329,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,12.5397227101958,11.1163770291828
+1957,Non-Hispanic,Male,Alive,White,62.9286612515207,Lab test positive for detection of COVID-19 virus,0,Office Visit,,8.56942393464432
+1952,Non-Hispanic,Female,Alive,Black or African American,67.210257729778,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Hospital Encounter,16.9626865400408,-51.1070539380796
+1951,Non-Hispanic,Male,Alive,Black or African American,69.1194092000407,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,16.6849466601568,16.1242813687374
+1992,Non-Hispanic,Female,Alive,Black or African American,28.2326225330045,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1966,Non-Hispanic,Female,Alive,White,55.2156193143849,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1960,Non-Hispanic,Male,Alive,White,60.9246658961384,Lab test positive for detection of COVID-19 virus,0,Office Visit,13.783169050934,12.8472543604501
+1981,Non-Hispanic,Female,Alive,White,39.6228486253069,Lab test positive for detection of COVID-19 virus,0,censored,12.8336567233418,12.3176731753213
+1951,Non-Hispanic,Female,Alive,Black or African American,67.2173956068393,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1957,Non-Hispanic,Female,Alive,White,63.9847859891813,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1972,Non-Hispanic,Male,Alive,White,48.411657687036,Lab test positive for detection of COVID-19 virus,0,Office Visit,8.70727161334936,-2.4675019086281
+1956,Non-Hispanic,Female,Alive,White,64.0744214105028,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1981,censored,Female,Alive,censored,39.0599518621906,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,,7.2023544280991
+1974,Non-Hispanic,Male,Alive,Black or African American,47.074716319831,Lab test positive for detection of COVID-19 virus,0,censored,,13.4205392736553
+1953,Non-Hispanic,Male,Alive,White,66.178668712351,Lab test positive for detection of COVID-19 virus,0,Telemedicine,,10.7784062794772
+1955,Non-Hispanic,Female,Alive,White,64.5334444086802,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,126.779885313423,17.2289911439568
+1983,Non-Hispanic,Female,Alive,White,36.919995065182,Lab test positive for detection of COVID-19 virus,0,Telemedicine,13.6329317076403,12.0894326357761
+1950,Non-Hispanic,Female,Alive,Black or African American,70.3388444249977,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,21.8422107052739,15.3140950733302
+1984,Non-Hispanic,Female,Alive,White,37.0830674537289,Lab test positive for detection of COVID-19 virus,0,,,
+1966,Non-Hispanic,Female,Alive,Black or African American,54.4021925832177,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,15.261979120165,11.6023124642473
+1950,Non-Hispanic,Male,Alive,Black or African American,70.3521474557072,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,0
+1926,Non-Hispanic,Male,Alive,White,94.4748397230487,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,,0
+1951,Non-Hispanic,Male,Alive,White,69.0786535531828,Lab test positive for detection of COVID-19 virus,0,Office Visit,12.4728891954671,10.0837798309037
+1964,Non-Hispanic,Female,Alive,White,56.1318196646483,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1978,Non-Hispanic,Female,Alive,Black or African American,43.0848028598222,Lab test positive for detection of COVID-19 virus,0,Telephone,0,0
+1946,Non-Hispanic,Female,Alive,White,73.8977306964811,Lab test positive for detection of COVID-19 virus,0,Telemedicine,0,0
+1968,Non-Hispanic,Female,Alive,Black or African American,52.6728825601765,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,10.0046601173543,8.73113407456746
+1948,Non-Hispanic,Male,Alive,White,71.9264207291072,Lab test positive for detection of COVID-19 virus,0,,,
+1970,Non-Hispanic,Female,Alive,White,49.7216748996643,Lab test positive for detection of COVID-19 virus,0,Telemedicine,0,0
+1993,Non-Hispanic,Female,Alive,White,26.467675102143,Lab test positive for detection of COVID-19 virus,0,Abstract,0,0
+1950,Non-Hispanic,Female,Alive,White,70.0064448634071,Lab test positive for detection of COVID-19 virus,0,Office Visit,,1362.14888698957
+1942,Non-Hispanic,Male,Alive,White,78.2447344523934,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,249.238224503389,-18.1665800909493
+1975,Non-Hispanic,Female,Alive,White,46.220094750672,Lab test positive for detection of COVID-19 virus,0,Orders Only,0,0
+1949,Non-Hispanic,Female,Alive,White,70.9881375992044,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Telemedicine,,13.6622639335414
+2002,Non-Hispanic,Female,Alive,White,18.5291403995384,Lab test positive for detection of COVID-19 virus,0,Orders Only,0,0
+1939,Non-Hispanic,Female,Alive,White,82.8222454822571,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,65.8575943292904,13.1472109911222
+1937,Non-Hispanic,Female,Alive,White,82.9478304026613,Lab test positive for detection of COVID-19 virus,0,Office Visit,12.8039449963674,11.8898882295782
+1992,Non-Hispanic,Female,Alive,White,28.8060597365547,Lab test positive for detection of COVID-19 virus,0,Abstract,0,0
+1955,Non-Hispanic,Female,Alive,Black or African American,64.0862742435613,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,0
+1947,Hispanic,Female,Alive,White,73.2086225711722,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1947,Non-Hispanic,Female,Alive,Black or African American,73.807035007219,Lab test positive for detection of COVID-19 virus,0,censored,0,0
+1981,Non-Hispanic,Female,Alive,White,38.9849521203832,Lab test positive for detection of COVID-19 virus,0,Telemedicine,9.22318610805252,9.31534570503508
+1937,Non-Hispanic,Female,Alive,White,82.4032197836085,Lab test positive for detection of COVID-19 virus,0,Orders Only,0,0
+1980,Non-Hispanic,Female,Alive,White,40.4402411745595,Real time reverse transcriptase PCR positive for COVID-19 virus,0,Telemedicine,,14.8392192230781
+1959,Non-Hispanic,Female,Alive,White,62.2298343624092,Lab test positive for detection of COVID-19 virus,0,Telemedicine,14.0954097093406,14.2797429988501
+1946,Non-Hispanic,Female,Alive,White,73.5075833921774,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,348.591894583212,15.4532339741134
+1974,censored,Male,censored,censored,44.8269751872222,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,0,0
+1950,Non-Hispanic,Male,Alive,White,70.3916286716153,Lab test positive for detection of COVID-19 virus,0,History,0,0
+1963,Non-Hispanic,Female,Alive,White,57.528414742989,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,29.6033740878526,15.45
+1926,Non-Hispanic,Female,Alive,White,92.8804854721105,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,23.9833333333333,13.2571678051721
+1950,Non-Hispanic,Male,Alive,Black or African American,70.3645164786932,Lab test positive for detection of COVID-19 virus,0,Hospital Encounter,135.022191120706,8.90804206794395
+1963,Non-Hispanic,Female,Alive,White,57.7939088564343,Lab test positive for detection of COVID-19 virus,0,Telemedicine,15.3436472919351,0
+1964,Non-Hispanic,Female,Alive,White,56.1374389276585,Lab test positive for detection of COVID-19 virus,0,Orders Only,0,0
+1980,censored,Female,Alive,censored,40.7851109054987,Real time reverse transcriptase PCR positive for COVID-19 virus,0,censored,20.8911002680337,9.46510770280046

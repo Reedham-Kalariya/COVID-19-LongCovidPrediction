@@ -1,0 +1,251 @@
+﻿Birth date,Ethnicity,Gender,Mortality status,Primary race,Reference Event-Age at event,Reference Event-Condition,Reference Event-Condition category,Reference Event-Condition documented date,Reference Event-Encounter end date,Reference Event-Encounter start date,Reference Event-Encounter type,Reference Event-Recorded date
+1962,censored,Female,censored,censored,58.1275535220916,Lab test positive for detection of COVID-19 virus,censored,2021-01-15,2021-01-15 19:06:55,2021-01-15 14:15:46,censored,2021-01-15
+1998,censored,Male,Alive,censored,22.8548037755571,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-04-21,2021-04-25 06:28:03,2021-04-21 20:29:50,censored,2021-04-21
+1940,Non-Hispanic,Female,Alive,White,80.6037687262965,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-11-23,2020-11-24 17:06:17,2020-11-23 12:21:25,Hospital Encounter,2020-11-23
+1968,Non-Hispanic,Female,Alive,White,53.7385876252498,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-04-22,2021-04-21 22:25:25,2021-04-21 22:25:25,Telephone,2021-04-22
+1965,Non-Hispanic,Female,Alive,White,55.4058650842488,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-04-16,2020-04-15 22:17:31,2020-04-15 22:17:31,Telemedicine,2020-04-16
+1950,Non-Hispanic,Male,Alive,White,70.5137264485702,Lab test positive for detection of COVID-19 virus,Medical history,2020-12-01,2020-12-01 00:00:00,2020-12-01 00:00:00,History,2020-12-01
+1993,Non-Hispanic,Female,Alive,White,26.547029572718,Lab test positive for detection of COVID-19 virus,Problem list,2020-11-17,,2020-11-17 22:05:07,Office Visit,2020-11-17
+1975,Non-Hispanic,Female,Alive,White,44.9651774149744,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-11-16,2020-11-16 00:00:00,2020-11-16 00:00:00,Telemedicine,2020-11-16
+1997,Non-Hispanic,Female,Alive,White,23.2706860488592,Lab test positive for detection of COVID-19 virus,Problem list,2020-11-11,,,censored,2020-11-11
+1961,Non-Hispanic,Female,Alive,White,59.8647671846897,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-11-28,,2020-11-28 22:05:10,Telemedicine,2020-11-28
+1970,censored,Male,censored,censored,50.7780723911709,Lab test positive for detection of COVID-19 virus,censored,2021-04-10,2021-04-10 21:27:42,2021-04-10 06:07:03,censored,2021-04-10
+1982,censored,Male,Alive,censored,37.9028301785779,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-11-16,2020-11-18 11:28:23,2020-11-16 12:08:31,censored,2020-11-16
+1967,Non-Hispanic,Male,Alive,White,54.0244494367574,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-02-08,2021-02-08 13:40:35,2021-02-08 12:28:51,Office Visit,2021-02-08
+1941,Non-Hispanic,Female,Alive,White,79.6018424971963,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-19,2021-02-05 20:57:59,2021-01-19 14:56:45,Hospital Encounter,2021-01-19
+1960,censored,Male,Alive,censored,60.6326224901439,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-01,2020-12-01 15:07:00,2020-12-01 11:07:37,censored,2020-12-01
+1940,Non-Hispanic,Male,Alive,White,79.756353925226,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-23,2021-01-23 05:33:10,2021-01-23 05:33:10,Telemedicine,2021-01-23
+1945,Non-Hispanic,Female,Alive,White,73.8576861956772,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-25,2020-12-24 12:59:07,2020-12-24 12:59:07,Telephone,2020-12-25
+1966,Non-Hispanic,Female,Alive,White,53.7846103257917,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-11-09,2020-11-09 00:25:49,2020-11-09 00:25:49,Telephone,2020-11-09
+1971,Non-Hispanic,Female,Alive,White,49.6708432085831,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-22,2020-12-22 14:17:31,2020-12-22 15:02:16,Office Visit,2020-12-22
+1948,Non-Hispanic,Male,Alive,White,71.5987938971664,Lab test positive for detection of COVID-19 virus,Problem list,2021-01-15,2021-02-07 10:59:00,2021-02-16 11:41:30,Office Visit,2021-01-15
+1988,Non-Hispanic,Male,Alive,White,32.4249030501759,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-14,2020-12-14 15:20:42,2020-12-14 14:36:42,Office Visit,2020-12-14
+1980,Non-Hispanic,Male,Alive,White,39.9452804377568,Lab test positive for detection of COVID-19 virus,Problem list,2020-12-01,,,censored,2020-12-01
+1947,Non-Hispanic,Female,Alive,Black or African American,70.8069003802315,Real time reverse transcriptase PCR positive for COVID-19 virus,Problem list,2020-04-16,2020-04-16 12:40:54,2020-04-13 18:14:17,censored,2020-04-16
+1993,Non-Hispanic,Male,Alive,White,27.5074837178263,Lab test positive for detection of COVID-19 virus,Medical history,2021-04-14,2021-04-14 11:18:36,2021-04-14 11:18:36,History,2021-04-14
+1982,Non-Hispanic,Male,Alive,White,38.4468838980934,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-07,2021-01-07 11:06:41,2021-01-07 10:58:20,Office Visit,2021-01-07
+1980,Non-Hispanic,Male,Alive,Black or African American,40.7196216893288,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-11-25,2020-12-05 09:28:19,2020-11-25 08:48:43,Hospital Encounter,2020-11-25
+1976,Non-Hispanic,Female,Alive,White,42.911041599217,Lab test positive for detection of COVID-19 virus,Medical history,2020-12-14,2020-12-14 00:00:00,2020-12-14 00:00:00,History,2020-12-14
+1982,censored,Male,Alive,censored,38.1399364866025,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-07-21,,2020-07-21 14:12:08,censored,2020-07-21
+1951,Non-Hispanic,Female,Alive,White,69.0941245074082,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-22,2020-12-22 13:44:41,2020-12-22 12:30:08,Hospital Encounter,2020-12-22
+1973,Non-Hispanic,Female,Alive,White,47.4555588173973,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-26,2020-12-25 16:39:51,2020-12-25 16:39:51,Orders Only,2020-12-26
+1980,censored,Male,Alive,censored,40.420032564811,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-05-13,,2020-05-13 03:42:26,censored,2020-05-13
+1992,Non-Hispanic,Female,Alive,Black or African American,27.3425054409517,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-06-01,,2020-06-01 06:23:01,censored,2020-06-01
+1994,Non-Hispanic,Male,Alive,White,26.1477832757605,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-26,2021-01-26 04:12:51,2021-01-26 04:12:51,censored,2021-01-26
+1942,Non-Hispanic,Male,Alive,White,78.2229546277712,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-29,2020-12-29 21:02:01,2020-12-29 19:45:01,Office Visit,2020-12-29
+1964,Non-Hispanic,Male,Alive,White,56.9406616542197,Lab test positive for detection of COVID-19 virus,Problem list,2021-01-11,2021-01-13 15:39:48,2021-01-11 14:36:47,Hospital Encounter,2021-01-11
+1940,Non-Hispanic,Female,Alive,White,80.8308536353835,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-19,2021-01-18 19:29:49,2021-01-18 19:29:49,Telephone,2021-01-19
+1969,Non-Hispanic,Male,Alive,Black or African American,51.4629352170839,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-02-01,2021-02-01 09:06:59,2021-02-01 12:41:06,Hospital Encounter,2021-02-01
+1980,Non-Hispanic,Female,Alive,White,40.4241211513174,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-24,2020-12-24 06:35:40,2020-12-24 06:35:40,Telephone,2020-12-24
+1994,Non-Hispanic,Male,Alive,Black or African American,24.6933421241621,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-13,2021-01-13 16:31:24,2021-01-13 17:00:25,Hospital Encounter,2021-01-13
+1974,Non-Hispanic,Female,Alive,White,46.2417346509178,Lab test positive for detection of COVID-19 virus,Problem list,2020-12-13,2020-12-12 14:26:47,2020-12-12 14:26:47,censored,2020-12-13
+1993,Non-Hispanic,Female,Alive,White,26.6208512644022,Lab test positive for detection of COVID-19 virus,Problem list,2021-01-15,2021-01-15 06:26:07,2021-01-15 02:05:46,censored,2021-01-15
+1965,censored,Male,censored,censored,55.2132232974188,Lab test positive for detection of COVID-19 virus,censored,2021-04-28,,2021-04-28 12:26:38,censored,2021-04-28
+1945,Non-Hispanic,Male,Alive,White,73.8790002550313,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-11-12,,2020-11-12 13:27:55,censored,2020-11-12
+1980,Non-Hispanic,Female,Alive,White,40.8957201420364,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-10-03,2020-11-13 16:35:19,2020-10-04 01:17:21,Hospital Encounter,2020-10-03
+1968,Non-Hispanic,Female,Alive,Black or African American,51.8046785944263,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-03-15,2021-03-15 09:05:35,2021-03-15 06:21:36,Hospital Encounter,2021-03-15
+1962,Non-Hispanic,Female,Alive,White,58.3115137990741,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-11,2021-01-11 00:00:00,2021-01-11 00:00:00,Telephone,2021-01-11
+1946,Non-Hispanic,Male,Alive,White,75.6269294831873,Lab test positive for detection of COVID-19 virus,Medical history,2021-02-03,2021-02-03 00:00:00,2021-02-03 00:00:00,History,2021-02-03
+1993,Non-Hispanic,Female,Alive,Black or African American,27.0633507946738,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-11,2021-01-11 00:00:00,2021-01-11 00:00:00,censored,2021-01-11
+2018,Non-Hispanic,Female,Alive,Black or African American,1.81193987919589,Lab test positive for detection of COVID-19 virus,Problem list,2021-02-21,2021-02-21 12:39:35,2021-02-21 21:04:09,censored,2021-02-21
+1979,Non-Hispanic,Female,Alive,White,43.5061157048636,Lab test positive for detection of COVID-19 virus,Problem list,2021-02-19,2021-03-10 17:38:38,2021-02-19 09:10:18,censored,2021-02-19
+1959,Non-Hispanic,Male,Alive,White,60.4055670941268,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-09,2021-01-08 18:34:11,2021-01-08 18:34:11,censored,2021-01-09
+1965,censored,censored,censored,censored,55.148271128253,Real time reverse transcriptase PCR positive for COVID-19 virus,censored,2020-04-23,,2020-04-23 08:41:13,censored,2020-04-23
+2004,Non-Hispanic,Male,Alive,Black or African American,16.1510006772992,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-03-27,2021-03-28 17:32:58,2021-03-27 16:12:06,Hospital Encounter,2021-03-27
+1973,Non-Hispanic,Male,Alive,White,47.0924288014306,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-02-02,2021-02-06 17:35:27,2021-02-02 10:54:37,Hospital Encounter,2021-02-02
+1942,censored,Female,censored,censored,77.5189176678083,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-19,2021-01-18 18:43:25,2021-01-18 18:43:25,censored,2021-01-19
+1947,Non-Hispanic,Male,Alive,White,73.0898781615229,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-07-25,2020-07-25 11:54:24,2020-07-25 09:46:38,Office Visit,2020-07-25
+1933,Non-Hispanic,Female,Alive,White,87.0213355702926,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-04-01,2021-03-31 20:11:36,2021-03-31 20:11:36,Orders Only,2021-04-01
+1946,Non-Hispanic,Female,Alive,White,73.8749388932898,Lab test positive for detection of COVID-19 virus,Medical history,2021-02-14,2021-02-13 12:08:46,2021-02-13 12:08:46,History,2021-02-14
+1969,Non-Hispanic,Male,Alive,White,51.2764076056997,Lab test positive for detection of COVID-19 virus,Problem list,2020-11-18,2020-11-21 21:58:28,2020-11-18 07:39:00,Hospital Encounter,2020-11-18
+1980,Non-Hispanic,Female,Alive,White,40.6874747143429,Lab test positive for detection of COVID-19 virus,Problem list,2021-04-26,2021-04-26 22:40:25,2021-04-26 22:56:04,Telemedicine,2021-04-26
+1972,Non-Hispanic,Female,Alive,White,48.2492989113278,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-14,2020-12-15 01:42:46,2020-12-14 23:19:07,Office Visit,2020-12-14
+1975,Non-Hispanic,Male,Alive,White,46.0347062130463,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-02-10,2021-02-09 15:14:33,2021-02-09 15:14:33,Office Visit,2021-02-10
+1982,Non-Hispanic,Female,Alive,White,37.3158270719818,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-06-23,,2020-06-23 07:06:28,Office Visit,2020-06-23
+1942,Non-Hispanic,Female,Alive,White,77.4471123585554,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-12,2021-01-12 00:44:33,2021-01-12 00:44:33,Telephone,2021-01-12
+1951,Non-Hispanic,Female,Alive,Black or African American,69.3938022067754,Real time reverse transcriptase PCR positive for COVID-19 virus,Problem list,2020-07-16,2020-07-23 02:31:53,2020-07-16 10:36:13,censored,2020-07-16
+1992,Non-Hispanic,Female,Alive,White,28.5011869428329,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-21,2020-12-21 09:39:56,2020-12-20 23:43:14,Telemedicine,2020-12-21
+1960,Non-Hispanic,Male,Alive,White,59.7426188690389,Lab test positive for detection of COVID-19 virus,Problem list,2020-12-02,2021-01-10 00:56:21,2020-12-02 00:00:00,Hospital Encounter,2020-12-02
+1963,Non-Hispanic,Male,Alive,White,56.4197578439503,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-11,2021-01-11 09:13:27,2021-01-11 09:26:55,Telemedicine,2021-01-11
+1997,Non-Hispanic,Male,Alive,Black or African American,23.6561607238633,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-05-04,2021-05-04 17:14:19,2021-05-04 15:10:09,Hospital Encounter,2021-05-04
+1969,Non-Hispanic,Female,Alive,White,51.6463831672576,Lab test positive for detection of COVID-19 virus,Problem list,2021-02-11,2021-02-11 10:38:18,2021-02-11 09:47:35,Telemedicine,2021-02-11
+1962,censored,Female,Alive,censored,57.1316876134051,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-04-22,2020-04-21 16:50:35,2020-04-21 16:50:35,censored,2020-04-22
+1990,Non-Hispanic,Female,Alive,Black or African American,28.8350561814824,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-03-22,2021-03-22 11:44:57,2021-03-22 10:08:16,Hospital Encounter,2021-03-22
+1965,Non-Hispanic,Male,Alive,Black or African American,55.2743135590937,Lab test positive for detection of COVID-19 virus,Problem list,2021-01-13,,,censored,2021-01-13
+1971,Non-Hispanic,Male,Alive,White,48.8397419657077,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-03-25,2021-03-25 11:06:55,2021-03-25 11:17:40,Telemedicine,2021-03-25
+1960,Non-Hispanic,Male,Alive,White,60.6315189609447,Lab test positive for detection of COVID-19 virus,Medical history,2021-04-01,2021-03-31 21:05:29,2021-03-31 21:05:29,History,2021-04-01
+1956,Non-Hispanic,Male,Alive,White,62.1055025484179,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-09-18,,2020-09-18 17:24:05,Telemedicine,2020-09-18
+1988,Non-Hispanic,Female,Alive,Black or African American,31.982549671124,Lab test positive for detection of COVID-19 virus,Problem list,2020-11-16,2020-12-05 05:52:55,2020-11-16 15:03:55,censored,2020-11-16
+1950,Non-Hispanic,Female,Alive,White,70.0790933962577,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-18,2021-01-20 18:07:38,2021-01-18 22:30:18,Hospital Encounter,2021-01-18
+1967,Non-Hispanic,Female,Alive,White,52.825645080475,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-03-27,2021-03-26 17:09:09,2021-03-26 17:09:09,Telephone,2021-03-27
+1950,Non-Hispanic,Male,Alive,White,70.3512519545509,Lab test positive for detection of COVID-19 virus,Medical history,2021-02-23,2021-02-22 18:28:13,2021-02-22 18:28:13,History,2021-02-23
+1993,Non-Hispanic,Female,Alive,White,28.2353206960124,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-04-26,2021-04-26 16:58:55,2021-04-26 11:15:36,Hospital Encounter,2021-04-26
+1948,Non-Hispanic,Male,Alive,White,71.8494503775242,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-10-07,2020-10-13 13:21:28,2020-10-07 09:08:58,Hospital Encounter,2020-10-07
+1981,Non-Hispanic,Female,Alive,White,38.4757398314207,Lab test positive for detection of COVID-19 virus,Problem list,2020-12-08,2020-12-08 18:26:54,2020-12-08 17:49:14,Office Visit,2020-12-08
+1970,Non-Hispanic,Male,Alive,White,50.6844951903855,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-03-08,2021-03-08 11:04:08,2021-03-08 09:11:40,Telemedicine,2021-03-08
+1993,censored,Female,censored,censored,27.2417345669457,Lab test positive for detection of COVID-19 virus,censored,2020-12-03,,,censored,2020-12-03
+1997,Non-Hispanic,Female,Alive,White,23.1610168468008,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-04-28,2021-04-28 04:02:39,2021-04-28 04:02:39,Orders Only,2021-04-28
+1969,Non-Hispanic,Female,Alive,White,52.4918615913894,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-02-22,2021-02-22 00:00:00,2021-02-22 00:00:00,censored,2021-02-22
+1956,Non-Hispanic,Female,Alive,White,63.1264861014695,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-10-18,2020-10-18 00:00:00,2020-10-18 00:00:00,Telephone,2020-10-18
+1941,Non-Hispanic,Male,Alive,White,79.534825253479,Lab test positive for detection of COVID-19 virus,Medical history,2021-02-04,2021-02-04 09:05:54,2021-02-04 09:05:54,History,2021-02-04
+1994,Non-Hispanic,Female,Alive,White,25.6997666487382,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-10-05,,2020-10-05 07:52:50,Telemedicine,2020-10-05
+1934,censored,Female,censored,censored,85.3823590093089,Lab test positive for detection of COVID-19 virus,censored,2020-11-03,2020-11-10 06:22:33,2020-11-03 13:26:34,censored,2020-11-03
+1954,Non-Hispanic,Male,Alive,White,66.8670039731798,Lab test positive for detection of COVID-19 virus,Medical history,2020-12-03,2020-12-03 00:00:00,2020-12-03 00:00:00,History,2020-12-03
+1999,Non-Hispanic,Male,Alive,Black or African American,19.0794197755216,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-18,2020-12-18 12:09:25,2020-12-18 10:24:41,Hospital Encounter,2020-12-18
+1993,Non-Hispanic,Female,Alive,Black or African American,27.5886459072519,Lab test positive for detection of COVID-19 virus,Medical history,2021-03-17,2021-03-17 00:00:00,2021-03-17 00:00:00,History,2021-03-17
+1950,Non-Hispanic,Male,Alive,White,70.8083218978759,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-24,2021-01-23 15:37:42,2021-01-23 15:37:42,censored,2021-01-24
+1935,Non-Hispanic,Female,Alive,White,82.895164791253,Lab test positive for detection of COVID-19 virus,Problem list,2021-01-06,,,censored,2021-01-06
+1929,censored,Female,censored,censored,88.7984635181826,Lab test positive for detection of COVID-19 virus,censored,2021-01-11,2021-01-29 05:57:25,2021-01-10 18:43:50,censored,2021-01-11
+1963,Non-Hispanic,Female,Alive,White,57.5589119879666,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-10-18,,2020-10-18 22:13:54,censored,2020-10-18
+1932,Non-Hispanic,Male,Alive,White,88.0291698845803,Lab test positive for detection of COVID-19 virus,Problem list,2021-01-28,2021-01-29 00:02:49,2021-01-27 17:49:03,Hospital Encounter,2021-01-28
+1982,Non-Hispanic,Female,Alive,Black or African American,36.9279717363901,Lab test positive for detection of COVID-19 virus,Problem list,2020-12-03,2020-12-02 20:18:12,2020-12-02 20:18:12,censored,2020-12-03
+1928,Non-Hispanic,Female,Alive,White,93.1687024839345,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-10-20,2020-10-21 07:10:54,2020-10-20 00:23:34,Hospital Encounter,2020-10-20
+1933,Non-Hispanic,Female,Alive,White,86.3424081750496,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-08,2020-12-11 15:09:55,2020-12-08 17:31:45,Hospital Encounter,2020-12-08
+1968,Non-Hispanic,Female,Alive,Black or African American,52.6991172880408,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-07-30,2020-07-30 00:00:00,2020-07-30 00:00:00,censored,2020-07-30
+1993,Non-Hispanic,Female,Alive,White,27.2714799822934,Lab test positive for detection of COVID-19 virus,Problem list,2021-04-27,2021-04-27 02:30:39,2021-04-27 00:13:02,Office Visit,2021-04-27
+1960,Non-Hispanic,Female,Alive,White,60.6325622720356,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-03-02,2021-03-02 06:05:19,2021-03-02 06:05:19,Orders Only,2021-03-02
+1945,Non-Hispanic,Female,Alive,White,73.8503388967556,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-10-17,,2020-10-18 08:09:36,Telemedicine,2020-10-17
+1982,censored,censored,censored,censored,37.3795976118021,Real time reverse transcriptase PCR positive for COVID-19 virus,censored,2020-10-27,2020-10-27 04:51:35,2020-10-27 17:14:39,censored,2020-10-27
+1983,Non-Hispanic,Female,Alive,White,37.2393237161634,Lab test positive for detection of COVID-19 virus,Problem list,2021-02-03,2021-02-03 20:30:52,2021-02-04 04:14:11,Office Visit,2021-02-03
+1961,censored,Female,Alive,censored,57.8939757080151,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-05-27,2020-05-27 09:54:26,2020-05-26 22:39:43,censored,2020-05-27
+1982,Non-Hispanic,Female,Alive,White,37.5128347895228,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-11-15,2020-11-16 00:33:19,2020-11-15 10:14:46,Telemedicine,2020-11-15
+1951,Non-Hispanic,Female,Alive,White,69.2807222013583,Lab test positive for detection of COVID-19 virus,Problem list,2020-11-13,2020-11-13 15:54:52,2020-11-15 20:07:58,Office Visit,2020-11-13
+1978,Non-Hispanic,Male,Alive,White,41.5329283857776,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-03-20,2021-03-21 03:43:20,2021-03-21 03:24:30,Office Visit,2021-03-20
+1989,Non-Hispanic,Male,Alive,White,30.6803495473745,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-10-02,2020-10-02 06:06:13,2020-10-01 20:54:09,censored,2020-10-02
+1942,Non-Hispanic,Male,Alive,White,78.8465444962089,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-07,2021-02-14 07:31:03,2021-01-07 14:48:48,Hospital Encounter,2021-01-07
+1975,Non-Hispanic,Female,Alive,White,46.6516756038176,Lab test positive for detection of COVID-19 virus,Medical history,2021-03-31,2021-03-31 00:50:05,2021-03-31 00:50:05,History,2021-03-31
+1968,Non-Hispanic,Female,Alive,White,52.4848788680811,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-02-06,2021-02-05 21:58:47,2021-02-05 21:58:47,Telephone,2021-02-06
+1953,Non-Hispanic,Female,Alive,Black or African American,67.1916137203967,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-03-13,2021-03-13 19:57:10,2021-03-13 16:48:01,Hospital Encounter,2021-03-13
+1965,Non-Hispanic,Female,Alive,White,55.2120176333442,Lab test positive for detection of COVID-19 virus,Problem list,2020-11-24,,2020-11-24 11:58:34,Telemedicine,2020-11-24
+1950,Non-Hispanic,Female,Alive,White,70.5364978030052,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-20,,2020-12-20 00:21:41,censored,2020-12-20
+1950,Non-Hispanic,Male,Alive,White,70.3483045952963,Lab test positive for detection of COVID-19 virus,Problem list,2020-11-25,2021-01-11 20:14:09,2021-01-04 03:28:42,Office Visit,2020-11-25
+1950,Non-Hispanic,Female,Alive,White,70.3986616338155,Lab test positive for detection of COVID-19 virus,Medical history,2020-11-18,2020-11-18 00:00:00,2020-11-18 00:00:00,History,2020-11-18
+1997,Non-Hispanic,Female,Alive,Black or African American,23.1965098975621,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-03-15,2021-03-15 04:19:18,2021-03-15 03:15:00,Hospital Encounter,2021-03-15
+1988,Non-Hispanic,Female,Alive,White,30.7522645339968,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-12,,2021-01-12 04:22:04,Telemedicine,2021-01-12
+1993,Non-Hispanic,Female,Alive,White,27.0771987526018,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-10-14,2020-10-14 00:00:00,2020-10-14 00:00:00,censored,2020-10-14
+1955,Non-Hispanic,Female,Alive,White,64.8606048017737,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-11,2020-12-10 17:16:25,2020-12-10 17:16:25,Telephone,2020-12-11
+1956,Non-Hispanic,Male,Alive,White,64.8656874834872,Lab test positive for detection of COVID-19 virus,Medical history,2021-03-02,2021-03-02 00:36:36,2021-03-02 00:36:36,History,2021-03-02
+1997,Non-Hispanic,Female,Alive,White,22.8921393377008,Lab test positive for detection of COVID-19 virus,Medical history,2021-02-01,2021-02-01 00:00:00,2021-02-01 00:00:00,History,2021-02-01
+1982,Non-Hispanic,Female,Alive,White,38.1469006333397,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-11-25,2020-11-25 15:09:07,2020-11-25 12:57:03,Telemedicine,2020-11-25
+1954,censored,Female,censored,censored,66.1985629201243,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-10-19,2020-10-19 00:00:00,2020-10-19 00:00:00,censored,2020-10-19
+1956,Non-Hispanic,Male,Alive,Black or African American,64.054188005863,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-13,2021-01-14 01:48:05,2021-01-13 07:21:54,Hospital Encounter,2021-01-13
+1950,censored,Male,censored,censored,70.9438369062028,Lab test positive for detection of COVID-19 virus,censored,2020-12-24,2021-01-27 12:25:17,2020-12-25 00:11:49,censored,2020-12-24
+1959,Non-Hispanic,Female,Alive,White,60.0889092882973,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-05-13,2020-05-13 00:00:00,2020-05-13 00:00:00,censored,2020-05-13
+1981,Non-Hispanic,Female,Alive,White,39.9452804377568,Lab test positive for detection of COVID-19 virus,Medical history,2021-01-15,2021-01-15 00:00:00,2021-01-15 00:00:00,History,2021-01-15
+1961,Non-Hispanic,Female,Alive,Black or African American,58.3152676624932,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-04,2020-12-05 01:52:40,2020-12-04 22:17:10,Hospital Encounter,2020-12-04
+1985,Non-Hispanic,Female,Alive,Black or African American,34.405496299512,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-06-01,,2020-06-01 08:25:21,censored,2020-06-01
+1960,Non-Hispanic,Female,Alive,Black or African American,60.1309624326608,Lab test positive for detection of COVID-19 virus,Problem list,2021-01-07,2021-01-09 01:04:27,2021-01-07 12:53:42,censored,2021-01-07
+1951,censored,Male,Alive,censored,67.3473273612396,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-03-29,2021-03-28 16:46:49,2021-03-28 16:46:49,censored,2021-03-29
+1972,censored,censored,censored,censored,48.3480560968396,Real time reverse transcriptase PCR positive for COVID-19 virus,censored,2020-10-01,,2020-10-01 11:01:54,censored,2020-10-01
+1970,Non-Hispanic,Female,Alive,White,49.7953340733328,Lab test positive for detection of COVID-19 virus,Problem list,2020-12-01,2020-11-30 21:59:21,2020-11-30 21:59:21,censored,2020-12-01
+2017,Non-Hispanic,Female,Alive,White,1.81632105463839,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-20,2021-01-27 18:41:10,2021-03-16 11:35:48,Hospital Encounter,2021-01-20
+1953,Non-Hispanic,Female,Alive,Black or African American,66.0767574491919,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-11-13,2020-11-13 00:00:00,2020-11-13 00:00:00,censored,2020-11-13
+1964,Non-Hispanic,Female,Alive,Black or African American,56.1160246723846,Lab test positive for detection of COVID-19 virus,Medical history,2021-01-15,2021-01-15 00:00:00,2021-01-15 00:00:00,History,2021-01-15
+1969,Non-Hispanic,Female,Alive,Black or African American,50.8095845115119,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-11-19,2020-11-19 12:47:50,2020-11-19 00:00:00,censored,2020-11-19
+1993,Non-Hispanic,Male,Alive,Black or African American,28.5093839142792,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-04-28,2021-04-30 00:23:48,2021-04-28 19:26:57,Hospital Encounter,2021-04-28
+1971,Non-Hispanic,Male,Alive,Black or African American,50.0768458389339,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-05-01,2021-05-02 19:26:13,2021-05-01 18:33:58,Hospital Encounter,2021-05-01
+1963,Non-Hispanic,Male,Alive,White,57.0276252801223,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-11-12,2020-11-12 17:38:11,2020-11-12 13:27:10,Hospital Encounter,2020-11-12
+1965,Non-Hispanic,Male,Alive,White,55.1948027784309,Lab test positive for detection of COVID-19 virus,Medical history,2021-04-07,2021-04-07 11:24:30,2021-04-07 11:24:30,History,2021-04-07
+1961,Non-Hispanic,Female,Alive,White,58.1616060006521,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-11-18,2020-11-18 00:00:00,2020-11-18 00:00:00,Orders Only,2020-11-18
+1984,Non-Hispanic,Male,Alive,White,36.2776296057794,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-18,2020-12-18 07:30:14,2020-12-18 07:03:31,Office Visit,2020-12-18
+2018,Non-Hispanic,Female,Alive,Black or African American,1.76800046678758,Real time reverse transcriptase PCR positive for COVID-19 virus,Problem list,2020-11-19,2020-11-19 12:52:35,2020-11-19 15:27:58,censored,2020-11-19
+1972,censored,Male,censored,censored,47.9810841055751,Lab test positive for detection of COVID-19 virus,censored,2021-04-20,,,censored,2021-04-20
+1956,Non-Hispanic,Female,Alive,White,64.1266157150487,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-17,2021-01-17 07:25:51,2021-01-17 15:14:12,Telemedicine,2021-01-17
+1951,Non-Hispanic,Female,Alive,White,69.965743617183,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-11-06,2020-11-07 18:20:25,2020-11-06 15:20:19,Hospital Encounter,2020-11-06
+1949,Non-Hispanic,Female,Alive,Black or African American,71.320776304699,Lab test positive for detection of COVID-19 virus,Problem list,2021-03-04,2021-03-05 03:27:22,2021-03-04 23:16:34,censored,2021-03-04
+1943,Non-Hispanic,Female,Alive,White,77.5661394722533,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-11-24,2020-11-24 00:00:00,2020-11-24 00:00:00,Orders Only,2020-11-24
+1976,Non-Hispanic,Female,Alive,White,42.6148071218662,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-10-06,2020-10-06 02:25:06,2020-10-06 02:25:06,Telephone,2020-10-06
+1992,censored,Female,censored,censored,28.2817347352293,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-10,2020-12-16 14:07:43,2020-12-10 13:51:02,censored,2020-12-10
+1980,Non-Hispanic,Female,Alive,White,40.7072806073611,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-02,2021-01-02 09:33:11,2021-01-01 22:53:57,Telemedicine,2021-01-02
+1961,Non-Hispanic,Female,Alive,Black or African American,57.4451018683351,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-07-09,2020-07-09 07:03:08,2020-07-09 15:48:21,censored,2020-07-09
+1971,Non-Hispanic,Female,Alive,White,48.7945867248998,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-03-04,2021-03-04 20:57:20,2021-03-04 18:13:24,Hospital Encounter,2021-03-04
+1935,Non-Hispanic,Male,Alive,White,85.2166078381063,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-02-12,2021-02-14 17:59:10,2021-02-12 15:14:51,Hospital Encounter,2021-02-12
+1994,Non-Hispanic,Female,Alive,White,26.5013498843073,Lab test positive for detection of COVID-19 virus,Problem list,2021-03-15,2021-03-15 11:50:21,2021-03-15 10:53:26,censored,2021-03-15
+1983,Non-Hispanic,Male,Alive,White,36.8998533709053,Lab test positive for detection of COVID-19 virus,Medical history,2021-01-28,2021-01-28 00:00:00,2021-01-28 00:00:00,History,2021-01-28
+1985,Non-Hispanic,Female,Alive,White,34.5630588830834,Lab test positive for detection of COVID-19 virus,Problem list,2020-11-08,,,censored,2020-11-08
+1987,Non-Hispanic,Female,Alive,White,33.1405559961235,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-11-16,2020-11-16 13:49:46,2020-11-16 11:36:35,Office Visit,2020-11-16
+1967,Non-Hispanic,Male,Alive,Black or African American,52.9942907064523,Lab test positive for detection of COVID-19 virus,Problem list,2020-09-09,2020-09-15 08:36:08,2020-09-10 07:47:43,censored,2020-09-09
+1971,censored,Male,Alive,censored,48.3486507471212,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-04-16,2020-04-15 22:20:11,2020-04-15 22:20:11,censored,2020-04-16
+1958,Non-Hispanic,Female,Alive,White,63.1508283089121,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-11-19,2020-11-19 00:00:00,2020-11-19 00:00:00,Telemedicine,2020-11-19
+1969,Non-Hispanic,Male,Alive,White,51.7742238954993,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-16,2020-12-16 12:30:15,2020-12-16 12:43:51,Office Visit,2020-12-16
+1942,Non-Hispanic,Female,Alive,White,78.2604839491963,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-28,2020-12-28 15:20:47,2020-12-28 00:00:00,Telemedicine,2020-12-28
+2004,Non-Hispanic,Male,Alive,Black or African American,13.6177411571029,Lab test positive for detection of COVID-19 virus,Problem list,2021-02-09,2021-02-14 11:22:57,2021-02-06 23:24:17,censored,2021-02-09
+1983,censored,Male,censored,censored,36.9769748964587,Lab test positive for detection of COVID-19 virus,censored,2020-10-09,2020-10-09 05:40:16,2020-10-09 05:40:16,censored,2020-10-09
+1962,Non-Hispanic,Female,Alive,White,58.2784636367084,Lab test positive for detection of COVID-19 virus,Medical history,2021-02-18,2021-02-18 00:00:00,2021-02-18 00:00:00,History,2021-02-18
+1983,Non-Hispanic,Male,Alive,White,36.9988730897475,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-02-08,2021-02-08 18:45:50,2021-02-08 17:22:27,Office Visit,2021-02-08
+2013,Non-Hispanic,Female,Alive,Black or African American,2.37127998533385,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-05-01,2021-05-01 17:00:37,2021-05-01 15:23:40,Hospital Encounter,2021-05-01
+1998,Non-Hispanic,Female,Alive,Black or African American,21.9528178598842,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-04-23,2021-04-23 21:36:16,2021-04-23 19:11:59,Hospital Encounter,2021-04-23
+1968,Non-Hispanic,Female,Alive,White,52.5577678665959,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-06,2021-01-05 16:10:11,2021-01-05 16:10:11,Orders Only,2021-01-06
+1980,Non-Hispanic,Female,Alive,Black or African American,41.1731577350265,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-13,2021-01-13 18:26:15,2021-01-13 16:46:23,Hospital Encounter,2021-01-13
+1996,censored,Female,Alive,censored,24.3130431505362,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-05-28,,2020-05-28 02:42:10,censored,2020-05-28
+1958,Non-Hispanic,Female,Alive,White,62.9020619270782,Lab test positive for detection of COVID-19 virus,Problem list,2020-12-07,2020-12-07 10:14:25,2020-12-07 09:22:32,Telemedicine,2020-12-07
+1980,Non-Hispanic,Male,Alive,White,40.4147926244941,Lab test positive for detection of COVID-19 virus,Problem list,2021-01-28,2021-01-28 13:03:41,2021-01-28 09:33:40,Office Visit,2021-01-28
+1955,Non-Hispanic,Male,Alive,White,64.8853318855831,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-03,2021-01-02 23:03:19,2021-01-02 22:59:51,Telemedicine,2021-01-03
+1993,Non-Hispanic,Male,Alive,White,27.2591295095868,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-11-16,2020-11-16 00:00:00,2020-11-16 00:00:00,censored,2020-11-16
+1950,Non-Hispanic,Male,Alive,White,70.1832333129411,Lab test positive for detection of COVID-19 virus,Problem list,2021-03-13,2021-03-20 10:41:28,2021-03-12 15:15:07,Hospital Encounter,2021-03-13
+1996,Non-Hispanic,Male,Alive,Black or African American,24.6952448297919,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-04-14,2021-04-16 23:11:58,2021-04-15 03:12:39,Hospital Encounter,2021-04-14
+1946,Non-Hispanic,Female,Alive,Black or African American,73.358745456263,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-07-09,2020-07-09 05:32:30,2020-07-09 05:32:30,censored,2020-07-09
+1957,Non-Hispanic,Female,Alive,White,63.1967673135212,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-11-22,2020-11-21 17:22:12,2020-11-21 17:22:12,Telephone,2020-11-22
+1978,Non-Hispanic,Female,Alive,White,43.6869102724528,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-05-03,2021-05-02 21:00:37,2021-05-02 21:00:37,Orders Only,2021-05-03
+1993,Non-Hispanic,Male,Alive,White,27.2424368513218,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-05-30,2020-05-29 18:51:16,2020-05-29 18:51:16,censored,2020-05-30
+1962,Non-Hispanic,Female,Alive,White,58.565488921053,Lab test positive for detection of COVID-19 virus,Problem list,2020-12-29,2020-12-29 06:01:49,2020-12-29 10:36:14,Office Visit,2020-12-29
+1984,censored,Male,Alive,censored,35.535897978148,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-10-01,2020-10-02 16:07:06,2020-10-01 21:17:15,censored,2020-10-01
+1937,Non-Hispanic,Male,Alive,White,82.4112545303297,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-11,2021-01-13 16:03:32,2021-01-11 20:15:05,Hospital Encounter,2021-01-11
+1994,censored,Female,Alive,censored,26.0570969297193,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-06-19,,2020-06-19 07:56:03,censored,2020-06-19
+1980,Non-Hispanic,Female,Alive,White,40.9750086542539,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-05,2020-12-05 11:04:00,2020-12-05 11:04:00,Telemedicine,2020-12-05
+1961,censored,Female,censored,censored,58.400001438629,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-07,2021-01-06 21:25:36,2021-01-06 21:25:36,censored,2021-01-07
+1955,Non-Hispanic,Female,Alive,White,64.4762725111998,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-11-16,2020-11-16 14:02:36,2020-11-16 10:28:54,Hospital Encounter,2020-11-16
+1949,Non-Hispanic,Male,Alive,Black or African American,70.98127415466,Lab test positive for detection of COVID-19 virus,Problem list,2020-11-18,,2020-11-23 13:43:07,censored,2020-11-18
+1942,Non-Hispanic,Male,Alive,White,78.1768331017301,Lab test positive for detection of COVID-19 virus,Problem list,2021-01-15,2021-01-15 06:38:38,2021-01-15 01:50:32,censored,2021-01-15
+1955,Non-Hispanic,Female,Alive,Black or African American,64.3248824303193,Lab test positive for detection of COVID-19 virus,Medical history,2020-10-21,2020-10-20 17:00:58,2020-10-20 17:00:58,History,2020-10-21
+1994,Non-Hispanic,Female,Alive,Black or African American,27.2746767172094,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-05-02,2021-05-04 05:48:00,2021-05-14 14:50:15,Hospital Encounter,2021-05-02
+1984,Non-Hispanic,Female,Alive,Black or African American,36.9183437523642,Lab test positive for detection of COVID-19 virus,Problem list,2021-01-08,2021-01-16 20:10:50,2021-01-09 00:28:26,censored,2021-01-08
+1977,Non-Hispanic,Male,Alive,White,43.1823881137713,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-03-08,2021-03-11 09:27:21,2021-03-08 15:38:00,Hospital Encounter,2021-03-08
+1934,Non-Hispanic,Male,Alive,White,85.7688810327334,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-11-19,2020-11-19 09:51:08,2020-11-19 11:36:08,censored,2020-11-19
+1940,Non-Hispanic,Male,Alive,White,80.0931192957205,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-03,,2021-01-02 22:50:21,Office Visit,2021-01-03
+1956,Non-Hispanic,Female,Alive,Black or African American,64.3036985431294,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-02-02,2021-02-02 00:00:00,2021-02-02 00:00:00,censored,2021-02-02
+1965,Non-Hispanic,Female,Alive,White,54.2996739970771,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-04-16,,2020-04-16 05:49:08,Telemedicine,2020-04-16
+1993,Non-Hispanic,Female,Alive,Black or African American,27.3889035800655,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-02-03,2021-02-03 15:20:41,2021-02-03 13:26:04,Hospital Encounter,2021-02-03
+2013,Non-Hispanic,Female,Alive,Black or African American,2.28621627751863,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-04-16,2021-04-16 10:24:32,2021-04-16 04:33:19,Hospital Encounter,2021-04-16
+1945,Non-Hispanic,Male,Alive,White,75.595370968049,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-03-19,2021-03-21 00:22:01,2021-03-19 17:41:12,Hospital Encounter,2021-03-19
+1966,Non-Hispanic,Female,Alive,White,54.0378820155354,Lab test positive for detection of COVID-19 virus,Problem list,2021-02-12,2021-02-12 23:59:00,2021-02-09 21:04:44,censored,2021-02-12
+1946,Non-Hispanic,Female,Alive,White,73.5650597893324,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-11-19,2020-11-19 17:30:19,2020-11-19 10:12:02,Telemedicine,2020-11-19
+1954,Non-Hispanic,Female,Alive,White,66.1075090640531,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-31,2020-12-31 00:00:00,2020-12-31 00:00:00,Telephone,2020-12-31
+1947,Non-Hispanic,Female,Alive,White,73.027777474598,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-07-17,2020-07-17 04:39:17,2020-07-17 04:39:17,Orders Only,2020-07-17
+1988,Non-Hispanic,Female,Alive,White,32.3335303814485,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-03,2020-12-02 20:05:28,,censored,2020-12-03
+1975,censored,Female,censored,censored,45.7159937437492,Lab test positive for detection of COVID-19 virus,censored,2021-01-05,2021-01-07 00:43:33,2021-01-05 17:21:30,censored,2021-01-05
+1937,Non-Hispanic,Female,Alive,White,82.8518512118231,Lab test positive for detection of COVID-19 virus,Problem list,2021-04-08,2021-04-08 15:10:52,2021-04-07 15:41:45,censored,2021-04-08
+1966,Non-Hispanic,Male,Alive,White,54.0194109773824,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-01-11,2021-01-11 09:11:58,2021-01-11 08:51:04,Telemedicine,2021-01-11
+1955,censored,Female,censored,censored,64.6918293608028,Lab test positive for detection of COVID-19 virus,censored,2020-11-21,2020-11-20 20:00:46,2020-11-20 20:00:46,censored,2020-11-21
+1958,Non-Hispanic,Male,Alive,White,64.2402556978914,Lab test positive for detection of COVID-19 virus,Problem list,2021-01-26,2021-01-25 19:36:07,2021-01-25 19:36:07,censored,2021-01-26
+1963,Non-Hispanic,Female,Alive,White,56.5522176079561,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-11-24,2020-11-24 00:00:00,2020-11-24 00:00:00,Telemedicine,2020-11-24
+1981,Non-Hispanic,Female,Alive,Black or African American,38.358861251973,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-04-26,,2020-04-26 02:26:34,censored,2020-04-26
+1968,Non-Hispanic,Female,Alive,White,52.324690400817,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-04-22,2020-04-22 10:57:57,2020-04-22 02:12:13,censored,2020-04-22
+1955,Non-Hispanic,Male,Alive,White,64.8551155158362,Lab test positive for detection of COVID-19 virus,Problem list,2020-12-30,2021-01-01 17:52:06,2020-12-27 11:45:15,Hospital Encounter,2020-12-30
+1928,Non-Hispanic,Female,Alive,White,93.0742110949851,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-01,2020-12-01 00:00:00,2020-12-01 00:00:00,Telephone,2020-12-01
+1935,censored,censored,censored,censored,84.9243717368546,Real time reverse transcriptase PCR positive for COVID-19 virus,censored,2020-07-22,2020-07-23 10:47:39,,censored,2020-07-22
+1948,Non-Hispanic,Male,Alive,White,71.7153810267712,Lab test positive for detection of COVID-19 virus,Problem list,2021-02-04,2021-02-04 11:47:00,2021-02-04 10:52:31,Office Visit,2021-02-04
+1962,censored,censored,censored,censored,57.6341512530539,Real time reverse transcriptase PCR positive for COVID-19 virus,censored,2020-11-03,2020-11-03 20:44:15,2020-11-03 11:30:17,censored,2020-11-03
+1998,Non-Hispanic,Female,Alive,Black or African American,22.8401748689969,Lab test positive for detection of COVID-19 virus,Medical history,2021-04-14,2021-04-14 10:41:27,2021-04-14 10:41:27,History,2021-04-14
+1988,Non-Hispanic,Female,Alive,White,32.0401668688639,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-10-23,2020-10-23 08:29:35,2020-10-23 22:48:38,Telemedicine,2020-10-23
+1950,Non-Hispanic,Male,Alive,White,69.3166979746869,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-11-21,,2020-11-21 07:54:46,Telemedicine,2020-11-21
+1997,Non-Hispanic,Male,Alive,Black or African American,23.2967613748911,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-03-30,2021-04-01 16:01:05,2021-03-30 21:39:25,Hospital Encounter,2021-03-30
+1990,Non-Hispanic,Female,Alive,Black or African American,29.483051633653,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-07-22,,2020-07-22 17:33:11,censored,2020-07-22
+1993,Non-Hispanic,Female,Alive,Black or African American,27.5655515397813,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-07-21,2020-07-21 10:28:55,2020-07-22 00:47:54,censored,2020-07-21
+1959,Non-Hispanic,Male,Alive,White,60.9571145927899,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-07-22,2020-07-22 00:00:00,2020-07-22 00:00:00,censored,2020-07-22
+1994,Non-Hispanic,Female,Alive,White,26.105155810486,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-12-13,,2020-12-13 17:07:55,Telemedicine,2020-12-13
+1987,Non-Hispanic,Male,Alive,White,33.7192221530524,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-11-21,2020-11-24 01:23:28,2020-11-22 07:18:56,Hospital Encounter,2020-11-21
+2004,Non-Hispanic,Female,Alive,Black or African American,17.2491154898502,Real time reverse transcriptase PCR positive for COVID-19 virus,Problem list,2021-02-18,2021-04-02 19:00:56,2021-02-18 16:18:06,censored,2021-02-18
+1954,Non-Hispanic,Male,Alive,White,65.7734346217686,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-03,2020-12-03 00:00:00,2020-12-03 00:00:00,censored,2020-12-03
+1973,Non-Hispanic,Female,Alive,White,46.6179555747286,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-07-30,2020-07-30 18:58:34,2020-07-30 12:10:12,censored,2020-07-30
+1937,Non-Hispanic,Male,Alive,White,82.8482690740396,Lab test positive for detection of COVID-19 virus,Problem list,2021-03-15,,,censored,2021-03-15
+2004,Non-Hispanic,Male,Alive,White,10.2790988621008,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2020-12-01,2020-12-01 00:00:00,2020-12-01 00:00:00,censored,2020-12-01
+1986,Non-Hispanic,Male,Alive,White,33.7763746197778,Lab test positive for detection of COVID-19 virus,Problem list,2020-10-18,2020-10-18 09:13:25,2020-10-18 00:00:00,censored,2020-10-18
+1941,Non-Hispanic,Male,Alive,White,79.0505915190377,Lab test positive for detection of COVID-19 virus,Medical history,2021-03-04,2021-03-03 19:23:47,2021-03-03 19:23:47,History,2021-03-04
+1991,Non-Hispanic,Female,Alive,White,29.4725885869339,Lab test positive for detection of COVID-19 virus,Problem list,2021-04-02,2021-04-02 14:00:32,2021-04-02 03:31:12,Office Visit,2021-04-02
+1992,Non-Hispanic,Female,Alive,Black or African American,28.2560746298734,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-07-29,2020-07-28 20:22:17,2020-07-28 20:22:17,censored,2020-07-29
+2014,Non-Hispanic,Female,Alive,White,1.78112312978093,Lab test positive for detection of COVID-19 virus,Encounter diagnosis,2021-02-03,2021-02-03 08:51:56,2021-02-03 05:31:01,Hospital Encounter,2021-02-03
+1978,Non-Hispanic,Male,Alive,White,41.5168915362432,Lab test positive for detection of COVID-19 virus,Problem list,2021-01-24,2021-01-24 10:07:10,2021-01-24 10:07:10,censored,2021-01-24
+1986,Non-Hispanic,Female,Alive,White,33.5497998266601,Lab test positive for detection of COVID-19 virus,Problem list,2020-12-24,2020-12-23 20:14:13,2020-12-23 20:14:13,censored,2020-12-24
+1939,Non-Hispanic,Male,Alive,White,81.2870756337062,Real time reverse transcriptase PCR positive for COVID-19 virus,Encounter diagnosis,2020-11-24,2020-11-24 02:35:41,2020-11-24 14:49:22,censored,2020-11-24
+1973,Non-Hispanic,Female,Alive,White,47.3634101193142,Lab test positive for detection of COVID-19 virus,Medical history,2020-12-26,2020-12-25 13:32:24,2020-12-25 13:32:24,History,2020-12-26
